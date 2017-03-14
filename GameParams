@@ -1,0 +1,5 @@
+block 1 $
+block 1 150 150 $
+player 100 50 20 20 $
+gravity 9.8 $
+cor .8 $
